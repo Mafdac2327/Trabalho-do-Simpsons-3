@@ -1,0 +1,11 @@
+img{
+    width: 25%;
+    height: 25%;
+    margin: 2em;
+
+}
+
+p{
+    text-align: justify;
+    display: flex;
+}
